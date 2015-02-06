@@ -10,7 +10,6 @@ import org.apache.commons.net.ftp.FTPReply;
  * Sample FTP Client
  * 
  * @author ermac517
- *
  */
 public class Client {
 
